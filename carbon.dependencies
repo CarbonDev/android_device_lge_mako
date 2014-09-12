@@ -1,5 +1,9 @@
 [
  {
+   "repository": "CarbonDev/android_kernel_lge_mako",
+   "target_path": "kernel/lge/mako"
+ },
+ {
    "remote": "tm",
    "repository": "proprietary_vendor_lge",
    "target_path": "vendor/lge",
